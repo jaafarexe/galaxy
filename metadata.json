@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Defender",
+  "description": "Fast-paced neon space arcade shooter with power-ups, boss battles, synth audio, and responsive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
